@@ -1,0 +1,158 @@
+[
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\Jay\\\\git\\\\candle\\\\pages\\\\login\\\\index.vue",
+    "chunkName": "pages/login/index"
+  },
+  {
+    "name": "news",
+    "path": "/news",
+    "component": "C:\\\\Users\\\\Jay\\\\git\\\\candle\\\\pages\\\\news\\\\index.vue",
+    "chunkName": "pages/news/index"
+  },
+  {
+    "name": "reserve",
+    "path": "/reserve",
+    "component": "C:\\\\Users\\\\Jay\\\\git\\\\candle\\\\pages\\\\reserve\\\\index.vue",
+    "chunkName": "pages/reserve/index"
+  },
+  {
+    "name": "admin-news",
+    "path": "/admin/news",
+    "component": "C:\\\\Users\\\\Jay\\\\git\\\\candle\\\\pages\\\\admin\\\\news\\\\index.vue",
+    "chunkName": "pages/admin/news/index"
+  },
+  {
+    "name": "admin-place",
+    "path": "/admin/place",
+    "component": "C:\\\\Users\\\\Jay\\\\git\\\\candle\\\\pages\\\\admin\\\\place\\\\index.vue",
+    "chunkName": "pages/admin/place/index"
+  },
+  {
+    "name": "admin-placeGroup",
+    "path": "/admin/placeGroup",
+    "component": "C:\\\\Users\\\\Jay\\\\git\\\\candle\\\\pages\\\\admin\\\\placeGroup\\\\index.vue",
+    "chunkName": "pages/admin/placeGroup/index"
+  },
+  {
+    "name": "admin-reserve",
+    "path": "/admin/reserve",
+    "component": "C:\\\\Users\\\\Jay\\\\git\\\\candle\\\\pages\\\\admin\\\\reserve\\\\index.vue",
+    "chunkName": "pages/admin/reserve/index"
+  },
+  {
+    "name": "admin-zone",
+    "path": "/admin/zone",
+    "component": "C:\\\\Users\\\\Jay\\\\git\\\\candle\\\\pages\\\\admin\\\\zone\\\\index.vue",
+    "chunkName": "pages/admin/zone/index"
+  },
+  {
+    "name": "admin-news-create",
+    "path": "/admin/news/create",
+    "component": "C:\\\\Users\\\\Jay\\\\git\\\\candle\\\\pages\\\\admin\\\\news\\\\create.vue",
+    "chunkName": "pages/admin/news/create"
+  },
+  {
+    "name": "admin-place-create",
+    "path": "/admin/place/create",
+    "component": "C:\\\\Users\\\\Jay\\\\git\\\\candle\\\\pages\\\\admin\\\\place\\\\create.vue",
+    "chunkName": "pages/admin/place/create"
+  },
+  {
+    "name": "admin-placeGroup-create",
+    "path": "/admin/placeGroup/create",
+    "component": "C:\\\\Users\\\\Jay\\\\git\\\\candle\\\\pages\\\\admin\\\\placeGroup\\\\create.vue",
+    "chunkName": "pages/admin/placeGroup/create"
+  },
+  {
+    "name": "admin-reserve-create",
+    "path": "/admin/reserve/create",
+    "component": "C:\\\\Users\\\\Jay\\\\git\\\\candle\\\\pages\\\\admin\\\\reserve\\\\create.vue",
+    "chunkName": "pages/admin/reserve/create"
+  },
+  {
+    "name": "admin-zone-create",
+    "path": "/admin/zone/create",
+    "component": "C:\\\\Users\\\\Jay\\\\git\\\\candle\\\\pages\\\\admin\\\\zone\\\\create.vue",
+    "chunkName": "pages/admin/zone/create"
+  },
+  {
+    "name": "admin-news-id",
+    "path": "/admin/news/:id",
+    "component": "C:\\\\Users\\\\Jay\\\\git\\\\candle\\\\pages\\\\admin\\\\news\\\\_id\\\\index.vue",
+    "chunkName": "pages/admin/news/_id/index"
+  },
+  {
+    "name": "admin-place-id",
+    "path": "/admin/place/:id",
+    "component": "C:\\\\Users\\\\Jay\\\\git\\\\candle\\\\pages\\\\admin\\\\place\\\\_id\\\\index.vue",
+    "chunkName": "pages/admin/place/_id/index"
+  },
+  {
+    "name": "admin-placeGroup-id",
+    "path": "/admin/placeGroup/:id",
+    "component": "C:\\\\Users\\\\Jay\\\\git\\\\candle\\\\pages\\\\admin\\\\placeGroup\\\\_id\\\\index.vue",
+    "chunkName": "pages/admin/placeGroup/_id/index"
+  },
+  {
+    "name": "admin-reserve-id",
+    "path": "/admin/reserve/:id",
+    "component": "C:\\\\Users\\\\Jay\\\\git\\\\candle\\\\pages\\\\admin\\\\reserve\\\\_id\\\\index.vue",
+    "chunkName": "pages/admin/reserve/_id/index"
+  },
+  {
+    "name": "admin-zone-id",
+    "path": "/admin/zone/:id",
+    "component": "C:\\\\Users\\\\Jay\\\\git\\\\candle\\\\pages\\\\admin\\\\zone\\\\_id\\\\index.vue",
+    "chunkName": "pages/admin/zone/_id/index"
+  },
+  {
+    "name": "coffee-id",
+    "path": "/coffee/:id",
+    "component": "C:\\\\Users\\\\Jay\\\\git\\\\candle\\\\pages\\\\coffee\\\\_id\\\\index.vue",
+    "chunkName": "pages/coffee/_id/index"
+  },
+  {
+    "name": "food-id",
+    "path": "/food/:id",
+    "component": "C:\\\\Users\\\\Jay\\\\git\\\\candle\\\\pages\\\\food\\\\_id\\\\index.vue",
+    "chunkName": "pages/food/_id/index"
+  },
+  {
+    "name": "hotel-id",
+    "path": "/hotel/:id",
+    "component": "C:\\\\Users\\\\Jay\\\\git\\\\candle\\\\pages\\\\hotel\\\\_id\\\\index.vue",
+    "chunkName": "pages/hotel/_id/index"
+  },
+  {
+    "name": "map-id",
+    "path": "/map/:id",
+    "component": "C:\\\\Users\\\\Jay\\\\git\\\\candle\\\\pages\\\\map\\\\_id\\\\index.vue",
+    "chunkName": "pages/map/_id/index"
+  },
+  {
+    "name": "news-id",
+    "path": "/news/:id",
+    "component": "C:\\\\Users\\\\Jay\\\\git\\\\candle\\\\pages\\\\news\\\\_id\\\\index.vue",
+    "chunkName": "pages/news/_id/index"
+  },
+  {
+    "name": "place-id",
+    "path": "/place/:id",
+    "component": "C:\\\\Users\\\\Jay\\\\git\\\\candle\\\\pages\\\\place\\\\_id\\\\index.vue",
+    "chunkName": "pages/place/_id/index"
+  },
+  {
+    "name": "travel-id",
+    "path": "/travel/:id",
+    "component": "C:\\\\Users\\\\Jay\\\\git\\\\candle\\\\pages\\\\travel\\\\_id\\\\index.vue",
+    "chunkName": "pages/travel/_id/index"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Jay\\\\git\\\\candle\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
