@@ -4,7 +4,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12">
-                        <p class="crp">© Copyright © 2020 <b>https://candle.digiadwise.com</b>. All rights reserved.</p>
+                        <p class="crp">© Copyright © 2020 <b>https://candlesfest.com</b>. All rights reserved.</p>
                     </div>
                 </div>
             </div>

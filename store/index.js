@@ -136,10 +136,10 @@ const createStore=()=>{
         actions:{
             //ทำงานร่วมกับ backend เรียกใช้ผ่าน component
             async nuxtServerInit(vuexContext){  
-                //await vuexContext.dispatch('initNews');
-                //await vuexContext.dispatch('initPlaceOrder');
-                //await vuexContext.dispatch('initPlaceGroup');
-                //await vuexContext.dispatch('initZone'); 
+                await vuexContext.dispatch('initNews');
+                await vuexContext.dispatch('initPlaceOrder');
+                await vuexContext.dispatch('initPlaceGroup');
+                await vuexContext.dispatch('initZone'); 
             },
             async activeTab(vuexContext,tab){
                 debugger;
@@ -439,8 +439,9 @@ const createStore=()=>{
                 }).catch(e=>context.error(e));
             },
             async initPlaceOrder(vuexContext){   
+                //initial ลติจูด 15.117235 ลองติจูด 104.9006625 เป็น ม อุบล *ต้องเเก้ หาของปัจจุบัน
                 return axios
-                .get("https://service.candlesfest.com/api/place/find/all/13.744950999999999/100.5622064")
+                .get("https://service.candlesfest.com/api/place/find/all/15.117235/104.9006625")
                 .then(res=>{    
                     vuexContext.commit("setPlaceOrderState", res.data.place_list);
                 }).catch(e=>context.error(e));

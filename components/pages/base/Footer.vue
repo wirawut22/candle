@@ -63,7 +63,7 @@
                 </li>
                 <li>
                   <img src="/base/images/i6.png" />
-                  <span>info@festival.com</span>
+                  <span>candlesfest@gmail.com</span>
                 </li>
                 <li>
                   <img src="/base/images/i7.png" />

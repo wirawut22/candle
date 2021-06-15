@@ -7,7 +7,7 @@
 				    <ul> 
 					   <li class="tab active" id="tab-home" @click="activeTab('tab-home')"><nuxt-link to="/"><span class="icon"><i class="fas fa-home"></i></span>หน้าเเรก</nuxt-link></li>
 					   <li class="tab" id="tab-news" @click="activeTab('tab-news')"><nuxt-link to="/news"><span class="icon"><i class="far fa-newspaper"></i></span>ข่าวสาร</nuxt-link></li>
-					   <li class="tab" id="tab-reserve" style="margin-right: -5px;" @click="activeTab('tab-reserve')"><nuxt-link to="/reserve"><span class="icon"><i class="fas fa-book-open"></i></span>จองที่นั่ง</nuxt-link></li>
+					   <li class="tab" id="tab-reserve" style="margin-right: -5px;" @click="activeTab('tab-reserve')"><nuxt-link to="/reserve"><span class="icon"><i class="fas fa-newspaper"></i></span>จองที่นั่ง</nuxt-link></li>
                        <li class="tab" :id="`tab-${item.id}`" style="margin-left: 5px;" @click="activeTab(`tab-${item.id}`)" v-for="(item, index) in placeGroupList" :key="item.id" v-bind:index="index">
 						   <nuxt-link :to="`${item.context_path}/${item.id}`"  class="nav-link">
 						   	<span class="icon">
